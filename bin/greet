@@ -7,4 +7,3 @@ name = gets.strip
 greeting(name)
 
 # code your CLI here!
-
